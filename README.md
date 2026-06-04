@@ -1,87 +1,107 @@
-<h1 align="center"><b>Hi! I'm Isaac Alvarado </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--  -->
+<h1 align="center">
+  <b>Hi! I'm Isaac Alvarado</b>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+</h1>
+
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Junior++Full-Stack+Developer;Software+Engineer;Active+Learner/Researcher;"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=700&height=100&lines=Data+Analyst;Business+Intelligence+Enthusiast;Software+Engineering+Background;Turning+Data+into+Insights">
+  </a>
 </p>
 
+<p align="center">
+Passionate about transforming data into actionable insights and supporting data-driven decision-making. Combining analytical thinking, business understanding, and a Software Engineering background to solve real-world problems.
+</p>
 
 <br>
 
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> About Me
 
-
-	
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> **About me**
-
+- 📊 Data Analyst focused on Business Intelligence and data-driven decision making
+- 🎓 Bachelor's Degree in Software Engineering
+- 💡 Passionate about data visualization, reporting, and business analytics
+- 📈 Experienced working with SQL, Power BI, Tableau, and Excel
+- 🐍 Leveraging Python and software development skills for data analysis and automation
+- 🚀 Continuously learning and expanding my knowledge in Data Analytics
 
 <br>
 
-- A passionate Full-Stack developer
-- Bachelor of Software Engineering
-- Business Systems Developer
+### Certifications
 
-<br><br>
+- 📚 CompTIA Data+ (In Progress)
+- 📚 Google Data Analytics Professional Certificate (In Progress)
+- 📚 Cisco Data Analytics Essentials (In Progress)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Skills
+
 <br>
 
 <p align="center">
 
-- **Languages, Frameworks & Platforms**:
+### Data Analytics & Business Intelligence
 
-    ![C#](https://img.shields.io/badge/C%23-purple?style=for-the-badge&logo=csharp&logoColor=white)
-    ![.NET](https://img.shields.io/badge/.NET-purple?style=for-the-badge&logo=dotnet&logoColor=white)
-    ![JAVA](https://img.shields.io/badge/JAVA-white?style=for-the-badge&logo=apachenetbeanside&color=%23E53D3D)
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-    ![PRISMA](https://img.shields.io/badge/Prisma-white?style=for-the-badge&logo=prisma&logoColor=black&labelColor=white&color=white)
-    
-<br>   
-    
-- **Front-End Development**:
-
-   ![ANGULAR](https://img.shields.io/badge/Angular-white?style=for-the-badge&logo=angular&logoColor=%23fc0303&labelColor=white&color=white)
-   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-white?style=for-the-badge&logo=microsoftsqlserver&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-white?style=for-the-badge&logo=tableau&logoColor=blue)
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 <br>
 
-- **Database Management**:
+### Data & Programming
 
-  ![SQLServer](https://img.shields.io/badge/SQL%20Server-white?style=for-the-badge&logo=microsoftsqlserver&logoColor=black)
-  ![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white)
-
-<br>
-
-- **Softwares and Tools**:
-
-  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  ![Visual Studio 2022](https://img.shields.io/badge/Visual%20Studio%202022-%23512BD4?style=for-the-badge&logo=visualstudio&logoColor=white)
-  ![NetBeans](https://img.shields.io/badge/Netbeans-white?style=for-the-badge&logo=apachenetbeanside&color=%231B6AC6)
-
+![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-purple?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-purple?style=for-the-badge&logo=dotnet&logoColor=white)
+![JAVA](https://img.shields.io/badge/JAVA-white?style=for-the-badge&logo=apachenetbeanside&color=%23E53D3D)
 
 <br>
 
-<br>
+### Database Management
+
+![SQL Server](https://img.shields.io/badge/SQL%20Server-white?style=for-the-badge&logo=microsoftsqlserver&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white)
+
 <br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+### Tools & Platforms
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio 2022](https://img.shields.io/badge/Visual%20Studio%202022-%23512BD4?style=for-the-badge&logo=visualstudio&logoColor=white)
+
+</p>
 
 <br>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b> Let's Connect..!
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Current Focus
+
+- Data Analytics
+- Business Intelligence
+- Dashboard Development
+- SQL Query Optimization
+- Data Visualization
+- KPI & Business Reporting
+- Process Improvement through Data
+
 <br>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Let's Connect
+
 <div align='left'>
 
 <ul>
 
 <li>
 <a href="https://www.linkedin.com/in/isaac-alvarado-to/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  Isaac Alvarado-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/LinkedIn-Isaac%20Alvarado-405DE6?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </li>
 
@@ -89,12 +109,10 @@
 
 <li>
 <a href="mailto:s.alvarado.at811@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  s.alvarado.at811@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/Gmail-s.alvarado.at811%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </li>
-	
-</ul>
-</div>
 
-<br>
-<br>
+</ul>
+
+</div>
